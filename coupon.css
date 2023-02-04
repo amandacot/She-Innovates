@@ -45,7 +45,7 @@
   font-size:16px;
   text-align:center;
   font-weight: 500;
-  color: #868585;
+  color: blue;
   margin-top:0px;
 }
 ._coupon__list ul{
@@ -64,7 +64,7 @@
 
 ._coupon__list .code{
   background: #ff8d00;
-  color:#fff;
+  color:blue;
   padding:5px;
   display: inline-block;
   border-radius:3px;
@@ -106,7 +106,7 @@
   cursor:pointer;
   position:fixed;
   font-family: serif;
-  color:#383636;
+  color:blue;
   top:15px;
   right:15px;
   text-align:center;
