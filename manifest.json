@@ -3,6 +3,11 @@
     "version": "1.0.0",
     "description": "",
     "manifest_version": 3,
+    "permissions": [
+    "activeTab",
+    "<all_urls>",
+    "tabs"
+  ],
     "author": "",
     "action": {
         "default_popup": "index.html",
