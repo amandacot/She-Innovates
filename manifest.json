@@ -15,7 +15,7 @@
     },
      "content_scripts": [
     {
-      "matches": ["https://www.amazon.com/?tag=amazusnavi-20&hvadid=381823327651&hvpos=&hvnetw=g&hvrand=10070219388895953430&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9005925&hvtargid=kwd-10573980&ref=pd_sl_7j18redljs_e&hydadcr=28883_11845442&gclid=CjwKCAiA_vKeBhAdEiwAFb_nrfVIE11W1xNjTqmXFRfNuvH9oKPAGpG7UIwauS6XD9IEsP4QTtxbCxoCGiUQAvD_BwE"]
+     "matches": ["https://www.cinoche.com/*"]
       "js": ["app.js"],
       "css": ["coupon.css"],
       "run_at": "document_end"
