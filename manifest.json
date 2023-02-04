@@ -8,12 +8,4 @@
         "default_popup": "index.html",
         "default_title": "Student Discounts hehe"
     }
-  "content_scripts": [
-    {
-      "matches": ["<all_urls>"],
-      "js": ["app.js"],
-      "css": ["coupon.css"],
-      "run_at": "document_end"
-    }
-  ]
 }
