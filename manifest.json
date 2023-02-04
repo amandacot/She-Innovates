@@ -1,12 +1,12 @@
 {
-    "name": "Student Discounts",
+    "name": "Student Discounts hehe",
     "version": "1.0.0",
     "description": "",
     "manifest_version": 3,
     "author": "",
     "action": {
         "default_popup": "index.html",
-        "default_title": "Student Discounts"
+        "default_title": "Student Discounts hehe"
     }
     "permissions": [
     "activeTab",
